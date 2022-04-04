@@ -12,9 +12,10 @@
 
     // Bitburner Extension Settings
     "bitburner.scriptRoot": "./dist/",
+    "bitburner.authToken": "Ggokqf6eQpEVyS31kDFAqoFatGpuoGUZayK3OHVkE4F2tlHg2Ry8aHW7y+MYFBhg",
 
     // Autosave Settings
-    "files.autoSave": "off",
+    "files.autoSave": "afterDelay",
 
     // Autosnippet settings
     "autoSnippet.snippets": [
